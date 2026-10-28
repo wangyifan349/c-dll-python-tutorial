@@ -1,0 +1,9 @@
+# Build outputs are intentionally not published.
+*.dll
+*.exe
+*.obj
+*.o
+*.a
+*.lib
+*.exp
+__pycache__/
